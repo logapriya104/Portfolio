@@ -60,8 +60,8 @@ src
 ## 📬 Contact
 
 * GitHub: https://github.com/logapriya104
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* LinkedIn: (add your LinkedIn profile)
+* Email: [logapriyab104@gmail.com](mailto:logapriyab104@gmail.com)
+
 
 ---
 
