@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.31ea7027.css",
+    "main.js": "/Portfolio/static/js/main.a5d944db.js",
+    "static/js/453.635f5f07.chunk.js": "/Portfolio/static/js/453.635f5f07.chunk.js",
+    "static/media/ToDoList.png": "/Portfolio/static/media/ToDoList.116d1e5982426854460f.png",
+    "static/media/WeatherApp.png": "/Portfolio/static/media/WeatherApp.d78b193f60a88ef84282.png",
+    "static/media/BooksKey.png": "/Portfolio/static/media/BooksKey.02c3814bd8f1e1f7fd6e.png",
+    "static/media/Linkedin.png": "/Portfolio/static/media/Linkedin.b0e8a3f74db1f57bbc0f.png",
+    "static/media/LoginForm.png": "/Portfolio/static/media/LoginForm.1321629e0e45cfcb6565.png",
+    "static/media/Resume.png": "/Portfolio/static/media/Resume.0b1b3d778a5481d2b9e8.png",
+    "static/media/Email.png": "/Portfolio/static/media/Email.8a588f531413ac518d5a.png",
+    "static/media/photo.jpeg": "/Portfolio/static/media/photo.3e137d591bfa22bd618d.jpeg",
+    "static/media/gitt.png": "/Portfolio/static/media/gitt.bd733dcc5ba44a3febb4.png",
+    "static/media/git.png": "/Portfolio/static/media/git.fc6cc3d3c146d533f0c3.png",
+    "index.html": "/Portfolio/index.html",
+    "main.31ea7027.css.map": "/Portfolio/static/css/main.31ea7027.css.map",
+    "main.a5d944db.js.map": "/Portfolio/static/js/main.a5d944db.js.map",
+    "453.635f5f07.chunk.js.map": "/Portfolio/static/js/453.635f5f07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31ea7027.css",
+    "static/js/main.a5d944db.js"
+  ]
+}
