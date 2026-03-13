@@ -1,3 +1,4 @@
+
 import React from "react";
 
 function Home() {
@@ -19,5 +20,6 @@ function Home() {
     </section>
   );
 }
+
 
 export default Home;

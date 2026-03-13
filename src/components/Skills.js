@@ -1,3 +1,7 @@
+
+
+
+
 import React from "react";
 import '../App.css';
 
@@ -50,5 +54,6 @@ function Skills() {
     </section>
   );
 }
+
 
 export default Skills;

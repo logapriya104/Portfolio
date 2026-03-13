@@ -1,3 +1,4 @@
+
 import React from "react";
 import Linkedin from "../assets/Linkedin.png";
 import gitt from "../assets/gitt.png";
@@ -54,5 +55,6 @@ function Contact() {
  </section>
   );
 }
+
 
 export default Contact;
